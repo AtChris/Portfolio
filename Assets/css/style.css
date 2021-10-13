@@ -68,7 +68,7 @@ nav a:hover {
   flex-flow: column;
   justify-content: flex-end;
   align-items: flex-end;
-  background-image: url(/Portfolio/Assets/images/Wiki-background.jpg);
+  background-image: url("../images/Wiki-background.jpg");
   margin-bottom: 10px;
   background-position: center;
 }
@@ -158,7 +158,7 @@ section h2 {
 }
 
 .easystack {
-  background-image: url(/Portfolio/Assets/images/easystack.png);
+  background-image: url("../images/easystack.png");
   opacity: 0.9;
 }
 
@@ -167,7 +167,7 @@ section h2 {
 }
 
 .passwordgen {
-  background-image: url(/Portfolio/Assets/images/passwordgen.png);
+  background-image: url("../images/passwordgen.png");
   opacity: 0.9;
 }
 
@@ -176,7 +176,7 @@ section h2 {
 }
 
 .coderefactor {
-  background-image: url(/Portfolio/Assets/images/coderefactor.jpg);
+  background-image: url("../images/coderefactor.jpg");
   opacity: 0.9;
 }
 
@@ -349,7 +349,6 @@ address a:hover {
     border-bottom: 4px solid var(--black);
     margin-bottom: 10px;
     padding-bottom: 5px;
-   
   }
 
   address a {
