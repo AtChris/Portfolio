@@ -156,7 +156,9 @@ section h2 {
   background-color: var(--gold);
   padding: 8px 10px;
 }
-
+.cookingcrafty{
+  background-image: url("../images/crafty.png");
+}
 .easystack {
   background-image: url("../images/easystack.png");
   opacity: 0.9;
